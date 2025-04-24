@@ -15,12 +15,5 @@
 include:
   - board: nrfmicro_13
     shield: boardsource5x12
-include:
   - board: nrfmicro_13
-    shield: boardsource5x12
-include:
-  - board: nrfmicro_13
-    shield: boardsource5x12
-include:
-  - board: nrfmicro_13
-    shield: boardsource5x12
+    shield: settings_reset
