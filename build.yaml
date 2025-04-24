@@ -13,14 +13,14 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: boardsource5x12
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: boardsource5x12
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: boardsource5x12
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: boardsource5x12
